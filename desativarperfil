@@ -1,0 +1,15 @@
+/<?php
+//include('conexao.php');
+//include('funcoes.php');
+
+//$desativado = $_POST['Situacao'];
+//$cpff = $_POST['CPF'];
+
+//if($desativado==1){
+   // Desativausuarios($conexao, $cpff);
+//}
+
+//else if($desativado==0){
+ //   Ativausuarios($conexao, $cpff);
+//}
+
